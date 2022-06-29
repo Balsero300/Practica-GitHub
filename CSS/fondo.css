@@ -17,5 +17,7 @@ p{
     padding: 30px 30px;
     margin-left:500px;
     margin-right: 500px;
+}
+.boton a{
     text-decoration: none;
 }
