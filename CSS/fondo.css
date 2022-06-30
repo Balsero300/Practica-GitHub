@@ -21,3 +21,11 @@ p{
 .boton a{
     text-decoration: none;
 }
+.linea{
+    background: red;
+    position: absolute;
+    height: 2px;
+    width: 1%;
+    left: 51%;
+    top: 41%;
+}
