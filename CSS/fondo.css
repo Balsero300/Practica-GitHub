@@ -26,6 +26,14 @@ p{
     position: absolute;
     height: 2px;
     width: 1%;
-    left: 51%;
+    left: 50%;
+    top: 41%;
+}
+.linea1{
+    background: red;
+    position: absolute;
+    height: 2px;
+    width: 1%;
+    right: 50%;
     top: 41%;
 }
