@@ -8,3 +8,10 @@ body{
     height: 100vh;
     background: radial-gradient(rgb(255, 123, 0),rgb(255, 51, 0));
 }
+p{
+    position: absolute;
+    text-align:center ;
+    margin-top: 50px;
+    margin-left: 25%;
+    font-size: 40px;
+}
