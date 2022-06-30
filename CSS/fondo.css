@@ -28,6 +28,7 @@ p{
     width: 0%;
     left: 50%;
     top: 41%;
+    transition: 1s;
 }
 .linea1{
     background: red;
@@ -36,6 +37,7 @@ p{
     width: 0%;
     right: 50%;
     top: 41%;
+    transition: 1s;
 }
 .boton:hover .linea{
     width: 5%;
