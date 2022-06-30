@@ -37,3 +37,9 @@ p{
     right: 50%;
     top: 41%;
 }
+.boton:hover .linea{
+    width: 5%;
+}
+.boton:hover .linea1{
+    width: 5%;
+}
