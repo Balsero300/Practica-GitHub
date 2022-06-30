@@ -25,7 +25,7 @@ p{
     background: red;
     position: absolute;
     height: 2px;
-    width: 1%;
+    width: 0%;
     left: 50%;
     top: 41%;
 }
@@ -33,7 +33,7 @@ p{
     background: red;
     position: absolute;
     height: 2px;
-    width: 1%;
+    width: 0%;
     right: 50%;
     top: 41%;
 }
